@@ -1,8 +1,6 @@
-# quant-trading-proj
-
-A simple project to get started.
-
 # Quantitative Trading Pipeline — S&P 500 Tech Stocks
+
+(A simple project to get started.)
 
 A complete end-to-end quantitative trading system built on S&P 500 technology
 sector stocks (2015–2025), implementing alpha factor generation, evaluation,
